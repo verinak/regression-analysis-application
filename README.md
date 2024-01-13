@@ -2,8 +2,8 @@
 
 App deployed to [shinyapps.io](https://7qa8yk-verina-michel.shinyapps.io/reg_run/)
 
-This was out final project for the Regression Analysis course.<br/>
-The project intially requested was to implement simple and multiple regression from scratch using R. We decided to bundle our implementation into a package, and create a simple UI that uses this implementation for performing Linear Regression Analysis.<br/><br/>
+This was our final project for the Regression Analysis course taught by Prof. Amr Amin.<br/>
+The project requested initially was to implement simple and multiple regression from scratch using R. We decided to bundle our implementation into a package, and create a simple UI that uses this implementation for performing Linear Regression Analysis.<br/><br/>
 
 Here are the two packages we implemented:
 - [linreg](https://github.com/verinak/linreg) : for Simple Linear Regression
@@ -11,7 +11,7 @@ Here are the two packages we implemented:
 
 ## Application Overview
 
-The application starts with an introduction to linear regression, for anyone who cares to read a little.<br/><br/>
+The application starts with a written introduction to linear regression.<br/><br/>
 <img width="800px" src="media/1.png" alt="help page">
 <br/><br/>
 
@@ -32,10 +32,10 @@ The Multiple tab (uses cvreg package): <br/><br/>
 <br/><br/>
 
 
-## Contributers
-Ola Mamdouh<br/>
-Verina Michel<br/>
-Marly Magdy<br/>
-Maria Anwar<br/>
-Mirna Tarek<br/>
-Mariem Nasr<br/>
+## Contributors
+[Ola Mamdouh](https://github.com/olamahdi)<br>
+[Verina Michel](https://github.com/verinak)<br>
+[Marly Magdy](https://github.com/marlymagdy)<br>
+[Maria Anwar](https://github.com/Maria1516)<br>
+[Mirna Tarek](https://github.com/Mirna-tarek)<br>
+[Mariem Nasr](https://github.com/MariemNasr)<br>
